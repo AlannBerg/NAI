@@ -57,4 +57,8 @@ To run bankonte algorythm
 
     python decision_trees.py
     
-## Examples
+## Example screen shots
+[Banknote Decision Tree](LAB%204/Example/banknote%20decision%20tree.png)
+
+[Banknote SVM](LAB%204/Example/banknote%20svm%20scr.png)
+
