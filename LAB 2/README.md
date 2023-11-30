@@ -28,5 +28,3 @@ To input conditions edit
 
 
 ## Examples
-![image](https://github.com/AlannBerg/Nai-2-Adaptive-Cruise-Control-Fuzzy-Control-System-/assets/76206945/1f249992-cf97-45db-a568-06ee97d1edf2)
-![image](https://github.com/AlannBerg/Nai-2-Adaptive-Cruise-Control-Fuzzy-Control-System-/assets/76206945/4c356b86-9857-4c04-8239-376deb0a81f7)
