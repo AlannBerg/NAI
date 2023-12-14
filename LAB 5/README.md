@@ -1,4 +1,4 @@
-# NAI LAB 4
+# NAI LAB 5
 ## Creators Alan Berg, Tomasz Fidurski
 ## Neural Network Basics
 A comprehensive Git repository providing foundational code for understanding and implementing neural networks. This repository covers diverse applications, including banknote authentication, CIFAR-10 image classification, and Fashion MNIST image classification, serving as an educational resource for exploring neural network concepts and practical implementations in TensorFlow and Keras.## Bankotes dataset
