@@ -12,7 +12,7 @@ Training is performed on the training set with validation, and the model is eval
 ''' Load the CIFAR-10 dataset '''
 (train_images, train_labels), (test_images, test_labels) = cifar10.load_data()
 
-''' Normalize pixel values to be between 0 and 1 '''
+''' Normalize pixel values to be between 0 and 255 '''
 train_images, test_images = train_images.astype('float32') / 255.0, test_images.astype('float32') / 255.0
 
 ''' Build the neural network model '''
