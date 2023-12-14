@@ -17,7 +17,7 @@ Class (0 for authentic, 1 for inauthentic).
 ### CIFAR-10
 about: https://en.wikipedia.org/wiki/CIFAR-10
 
-##Fashion MNIST
+### Fashion MNIST
 about https://en.wikipedia.org/wiki/Fashion_MNIST
 
 ## How to use 
