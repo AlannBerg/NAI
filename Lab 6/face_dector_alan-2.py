@@ -71,7 +71,7 @@ def check_face_recognition():
 
                 # Check for consecutive closed eyes
                 if consecutive_closed_eyes >= threshold_closed_eyes and film_status == "running":
-                    print('Pause the video, film status {}, eyes closed in row {}',film_status,consecutive_closed_eyes)
+                    print('Pause the video, film status {}, eyes closed in row {}'.format(film_status,consecutive_closed_eyes))
                     pyautogui.press('k')  # Simulate 'k' key to pause the video
                     film_status = "paused"
                     consecutive_closed_eyes = 0  # Reset counter
@@ -83,7 +83,7 @@ def check_face_recognition():
 
                 # Check for consecutive open eyes
                 if consecutive_open_eyes >= threshold_open_eyes and film_status == "paused":
-                    print('Play the video, film status {}, eyes closed in row {}',film_status,consecutive_closed_eyes)
+                    print('Play the video, film status {}, eyes closed in row {}'.format(film_status,consecutive_closed_eyes))
                     pyautogui.press('k')  # Simulate 'k' key to play the video
                     film_status = "running"
                     consecutive_open_eyes = 0  # Reset counter
