@@ -17,7 +17,7 @@ OpenCV: https://docs.opencv.org/3.4/index.html
 
 	pip install cv2
 	pip install pyautogui 
-	pip install tkinter 
+	pip install tk 
 	pip install pygame
 
 	To run one of the programs 
